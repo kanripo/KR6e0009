@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:53:30.935060
+#+DATE: 2015-09-28 22:53:31.145197
 #+TITLE: 華嚴經疏卷第三
 #+PROPERTY: CBETA_ID T85n2757
 #+PROPERTY: ID KR6e0009
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2757
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0009_T_000-0234c>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0009_T_003-0234c> ¶¶
 #+PROPERTY: JUAN 3
 ¶
-No.2757[cf.No.278]¶
-
- 花嚴經疏卷第三¶
+No. 2757 [cf. No. 278]¶
+花嚴經疏卷第三¶
 ¶
 釋元曉述¶
 
@@ -103,7 +102,7 @@ No.2757[cf.No.278]¶
 <pb:KR6e0009_T_003-0235c>¶
 其進入佛智境界。初中亦二。前嘆自覺覺他¶
 無上之智。後讚無染無毀無上之德。後八頌¶
-中四雙不現。第一雙者進入佛智進入法海。¶
+中四雙。第一雙者進入佛智進入法海。¶
 第二雙者正轉法輪正思佛道。第三雙者順¶
 佛真教知佛實德。第四雙者觀察寂滅了知¶
 平等。是謂進首進入法門也。第八偈中有二¶
